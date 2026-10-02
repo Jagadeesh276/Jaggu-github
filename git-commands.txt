@@ -10,4 +10,7 @@ git commands
    git status                                                   
    git restore python.py                                        
    git status                                                   
-   clear              
+   clear         
+
+
+heyyy im jagadeesh
