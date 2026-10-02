@@ -1,0 +1,13 @@
+git commands
+
+    git init                                                     
+    git add python.py                                            
+    git status                                                   
+    git commit -m "added testing files"                          
+    git status                                                   
+    rm python.py                                                 
+    ls                                                           
+   git status                                                   
+   git restore python.py                                        
+   git status                                                   
+   clear              
